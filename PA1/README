@@ -1,0 +1,9 @@
+Brian Pereira Alegria
+brpereir
+README
+
+1. README - Table of contents for pa1
+2. Makefile - Creates an executable jar file called Lex
+3. Lex.java - Takes two command lines arguments, output file will contain the same lines as the input file arranged in lexicographic order.
+4. List.java - List ADT
+5. ListClient.java - Test client for the List ADT.
