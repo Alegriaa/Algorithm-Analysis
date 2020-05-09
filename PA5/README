@@ -1,0 +1,13 @@
+Brian Pereira Alegria
+brpereir
+README
+This is the table of contents for PA5.
+
+1. README - Table of contents for PA5
+2. Makefile - Compiles files for PA5
+3. List.c - The list ADT
+4. List.h - Header file for List.c
+5. Graph.h - Header file for Graph.c
+6. Graph.c - The graph ADT
+7. GraphTest.c - Tester file for the graph ADT
+8. FindComponents.c - Top level client module
