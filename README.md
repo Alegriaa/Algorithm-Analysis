@@ -1,2 +1,2 @@
 # ADTs-Algorithms
-My work for CMPM 101
+My work for CMPS 101
